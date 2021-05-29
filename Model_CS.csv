@@ -1,9 +1,9 @@
-Cust_num,age,job,marital,education,default,balance,housing,loan,contact,day,month,duration,campaign,pdays,previous,poutcome,y
-1,58,management,married,tertiary,no,2143,yes,no,unknown,5,may,261,1,-1,0,unknown,no
-2,44,technician,single,secondary,no,29,yes,no,unknown,5,may,151,1,-1,0,unknown,no
-3,33,entrepreneur,married,secondary,no,2,yes,yes,unknown,5,may,76,1,-1,0,unknown,no
-4,47,blue-collar,married,unknown,no,1506,yes,no,unknown,5,may,92,1,-1,0,unknown,no
-5,33,unknown,single,unknown,no,1,no,no,unknown,5,may,198,1,-1,0,unknown,no
-6,35,management,married,tertiary,no,231,yes,no,unknown,5,may,139,1,-1,0,unknown,no
-7,28,management,single,tertiary,no,447,yes,yes,unknown,5,may,217,1,-1,0,unknown,no
-8,42,entrepreneur,divorced,tertiary,yes,2,yes,no,unknown,5,may,380,1,-1,0,unknown,no
+FormId,Total NoofSessions,Sessions Drop Off,% Change,No Of Custom Questions
+urx-19776,1000,400,40.00,2
+urx-19774,2000,800,40.00,3
+urx-19775,3000,800,26.67,5
+urx-19776,4000,800,20.00,4
+urx-19777,5000,800,16.00,3
+urx-19778,5000,800,16.00,3
+urx-19779,7000,800,11.43,2
+urx-19780,9000,800,8.89,1
